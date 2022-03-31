@@ -1,3 +1,10 @@
+/*
+ \file		reseau.hpp
+ \author	Mohamed HASSANI, Alexandre GLENAT, Thomas TISSIER
+ 
+		Header Reseau
+*/
+
 #ifndef RESEAU_HPP
 #define RESEAU_HPP
 #include <vector>
