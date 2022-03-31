@@ -1,3 +1,10 @@
+/*
+ \file	algo.hpp
+ \author	Mohamed HASSANI, Alexandre GLENAT, Thomas TISSIER
+ 
+  Header d'algo
+*/
+
 #ifndef ALGO_HPP
 #define ALGO_HPP
 #include"reseau1.hpp"
