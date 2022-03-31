@@ -1,3 +1,11 @@
+/*
+ \file	     test.hpp
+ \author	    Mohamed HASSANI, Alexandre GLENAT, Thomas TISSIER
+ 
+             Header Test, contient les fonctions de test des reseau et le remplissage
+*/
+
+
 #ifndef TEST_HPP
 #define TEST_HPP
 #include "algo.hpp"
