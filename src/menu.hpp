@@ -1,3 +1,11 @@
+/*
+ \file	menu.hpp
+ \author	Mohamed HASSANI, Alexandre GLENAT, Thomas TISSIER
+ 
+  Header Menu
+*/
+
+
 #ifndef MENU_HPP
 #define MENU_HPP
 #include "objet.hpp"
