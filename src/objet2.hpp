@@ -1,3 +1,10 @@
+/*
+ \file		objet2.hpp
+ \author	Mohamed HASSANI, Alexandre GLENAT, Thomas TISSIER
+ 
+		Header Objet2, dérivé de Objet
+*/
+
 #ifndef OBJET2_HPP
 #define OBJET2_HPP
 #include"objet.hpp"
