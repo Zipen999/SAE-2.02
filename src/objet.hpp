@@ -1,5 +1,5 @@
 /*
- \file		menu.hpp
+ \file		objet.hpp
  \author	Mohamed HASSANI, Alexandre GLENAT, Thomas TISSIER
  
  		 Header objet
