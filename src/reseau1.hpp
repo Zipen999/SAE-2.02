@@ -1,3 +1,10 @@
+/*
+ \file	        reseau1.hpp
+ \author	    Mohamed HASSANI, Alexandre GLENAT, Thomas TISSIER
+ 
+             Header Reseau1, dérivé de Reseau
+*/
+
 #ifndef RESEAU1_HPP
 #define RESEAU1_HPP
 #include "objet1.hpp"
